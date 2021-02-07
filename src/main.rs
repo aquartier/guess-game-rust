@@ -3,7 +3,7 @@ use std::io::{self, Write};
 use std::cmp::Ordering;
 
 const MAX_NUMBER: i32 = 100;
-const MAX_ATTEMPTS: i32 = 5;
+const MAX_ATTEMPTS: i32 = 10;
 
 enum State {
     TooHigh,
