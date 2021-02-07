@@ -9,3 +9,6 @@ It will generate random number between 1 and 100. It will prompt to input a gues
 ## Run
 
 Run the `cargo run` command to start the game.
+
+<img width="541" alt="Screen Shot 2564-02-07 at 23 43 29" src="https://user-images.githubusercontent.com/2357480/107153164-9629c080-699e-11eb-96e5-915577a13c0c.png">
+
